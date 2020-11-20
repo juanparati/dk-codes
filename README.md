@@ -1,5 +1,7 @@
 # dk-codes
 
+Example project used for Jenkins practice exercise.
+
 ## Project setup
 ```
 npm install
@@ -15,5 +17,7 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Test
+```
+npm run test
+```

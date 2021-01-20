@@ -1,6 +1,6 @@
 # dk-codes
 
-Example project used for Jenkins practice exercise.
+Example project used as a Jenkins practice exercise.
 
 ## Project setup
 ```
